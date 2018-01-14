@@ -1,0 +1,5 @@
+	Access Token	1943894148-mngLmzbHLpqZI05PQnJSkz1D8hus3YMTg6vXi2g
+Access Token Secret	0fx0FLYp9ftC2axJuflH80xD0bS7qv8RM899Q1p7otkpL
+Access Level	Read and write
+Owner	aptomar1
+Owner ID	1943894148
